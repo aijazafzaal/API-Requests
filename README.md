@@ -3,4 +3,7 @@ Python library requests utilized, topics covered:
 2. Working with proxies.  
 3. Changing the user agent.
 4. Download content.  
-5. Status codes.  
+5. Status codes.   
+
+
+Working with httpbin.org
