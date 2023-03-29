@@ -9,7 +9,7 @@ Python library requests, psycopg2, json and pandas utilized, topics covered:
 Working with "httpbin.org"
 
 In JSON Placeholder file:
-1. We extract all posts and comments from the server (https://jsonplaceholder.typicode.com/  
+1. We extract all posts and comments from the server (https://jsonplaceholder.typicode.com/)    
 2. Convert the .json format into pandas data frame.  
 3. Insert the data frame into the corresponding table in the postgreSQL database.
 
