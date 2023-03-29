@@ -1,4 +1,6 @@
-Python library requests, psycopg2, json and pandas utilized, topics covered:  
+Python library requests, psycopg2, json and pandas utilized.  
+
+In Basic GET-POST file:
 1. Basic http requests <b> (GET, POST etc.) </b>
 2. Working with proxies.  
 3. Changing the user agent.
