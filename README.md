@@ -4,7 +4,7 @@ In Basic GET-POST file:
 1. Basic http requests <b> (GET, POST etc.) from "httpbin.org" </b>
 2. Working with proxies.  
 3. Changing the user agent.
-4. Download content (like images)  
+4. Download content (like images)   
 5. Status codes.   
 
 In JSON Placeholder file:
